@@ -13,22 +13,22 @@ View at:
 
 ## Local installation
 
-### Clone
+1. Clone
 
 > git clone https://github.com/normanrichardson/FCC-Sudoku-Solver.git
 
 > cd FCC-Sudoku-Solver
 
-### Install dependencies
+2. Install dependencies
 
 > npm install
 
-### Run Server
+3. Run Server
 
 > npm start
 
 > Go to localhost:3000
 
-### Run Tests
+4. Run Tests
 
 > npm test
