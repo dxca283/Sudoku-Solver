@@ -1,4 +1,4 @@
-# FCC-Sudoku-Solver
+# [FCC-Sudoku-Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
 
 This was put together for the Quality Assurance course on [FCC](https://www.freecodecamp.org/learn/quality-assurance/). The aim was to create and test a web application for solving sudoku puzzles, and testing individual cells.
 
@@ -25,10 +25,10 @@ View at:
 
 3. Run Server
 
-> npm start
+> npm run start
 
-> Go to localhost:3000
+Go to localhost:3000
 
 4. Run Tests
 
-> npm test
+> npm run test
